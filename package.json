@@ -6,3 +6,5 @@
     "build": "mkdir public && cowsay cow:RANDOMNESS_PLACEHOLDER > public/index.txt"
   }
 }
+
+
